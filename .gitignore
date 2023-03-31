@@ -1,2 +1,6 @@
 /target
 Cargo.lock
+/projects/baseball_app/target
+/projects/guessing_game/target
+/projects/hello_cargo/targets
+
